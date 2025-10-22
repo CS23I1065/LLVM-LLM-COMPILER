@@ -1,0 +1,10 @@
+# Ignore all datasets
+dataset/
+dataset_filtered/
+
+# Ignore compressed archives
+*.tar.gz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
